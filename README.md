@@ -327,24 +327,24 @@
 |             U65                   |           |          |  -      |![image](https://github.com/user-attachments/assets/e6c343f8-0c18-470e-b3c4-3dad5e7f83e8)|
 |             U66                   |           |          |  -      |![image](https://github.com/user-attachments/assets/e02b1168-3400-4507-93f3-e6b5d14ee37a)|
 |             U67                   |           |          |  -      |![image](https://github.com/user-attachments/assets/0db62c82-e64e-4b38-ba31-4f9b75c0af8c)|
-|             U68                   |           |          |  -      |![image](https://github.com/user-attachments/assets/fb54cfa8-6b57-46ee-be58-3addae3919a9)|
-|             U69                   |           |          |  -      |![image](https://github.com/user-attachments/assets/d4b79d65-96c3-41b7-af66-916b07101608)|
-|             U70                   |           |          |  -      |![image](https://github.com/user-attachments/assets/656cce83-dd17-47d8-962c-57f46ce99350)|
-|             U71                   |           |          |  -      |![image](https://github.com/user-attachments/assets/1c098046-e405-4fb5-be00-22f3295adc0f)|
-|             U72                   |           |          |  -      |![image](https://github.com/user-attachments/assets/3413d161-bf1b-4c3a-8495-a0e5f9a78239)|
-|             U73                   |           |          |  -      |![image](https://github.com/user-attachments/assets/445d2d44-3ab0-4ace-8f95-a8dd173b7b38)|
-|             U74                   |           |          |  -      |![image](https://github.com/user-attachments/assets/6e3cccc0-c186-4cb7-ba68-9bd7e894f2d2)|
-|             U75                   |           |          |  -      |![image](https://github.com/user-attachments/assets/95e9b01c-e0be-4095-9a48-89436498e835)|
-|             U76                   |           |          |  -      |![image](https://github.com/user-attachments/assets/b690deaa-0da7-42d9-b1c7-9494ca75ea0e)|
-|             U77                   |           |          |  -      |![image](https://github.com/user-attachments/assets/f57f3fda-fad1-4b32-ab13-aab2415db42e)|
-|             U78                   |           |          |  -      |![image](https://github.com/user-attachments/assets/38f35374-39a3-44c5-b62f-60f8ef042145)|
-|             U79                   |           |          |  -      |![image](https://github.com/user-attachments/assets/d6dd1d59-0613-4a72-9e8e-7aa4885fca34)|
-|             U80                   |           |          |  -      |![image](https://github.com/user-attachments/assets/43196910-4ff1-4222-842e-0d0cc8658c4d)|
-|             U81                   |           |          |  -      |![image](https://github.com/user-attachments/assets/fdad8af4-bf28-4ecb-b908-c73439e5d760)|
-|             U82                   |           |          |  -      |![image](https://github.com/user-attachments/assets/5530afb6-0948-442f-962f-e11f6d570dad)|
-|             U83                   |           |          |  -      |![image](https://github.com/user-attachments/assets/51c01760-e1d9-46f6-839f-efbee747166e)|
-|             U84                   |           |          |  -      |![image](https://github.com/user-attachments/assets/eeb9efed-ec6d-43df-ac54-9c93811e9574)|
-|             U85                   |           |          |  -      |![image](https://github.com/user-attachments/assets/28196299-4028-4c71-8813-075a92cdf159)|
+|             U68                   |           |          |  -      |![image](https://github.com/user-attachments/assets/fb54cfa8-6b57-46ee-be58-3addae3919a9)|
+|             U69                   |           |          |  -      |![image](https://github.com/user-attachments/assets/d4b79d65-96c3-41b7-af66-916b07101608)|
+|             U70                   |           |          |  -      |![image](https://github.com/user-attachments/assets/656cce83-dd17-47d8-962c-57f46ce99350)|
+|             U71                   |           |          |  -      |![image](https://github.com/user-attachments/assets/1c098046-e405-4fb5-be00-22f3295adc0f)|
+|             U72                   |           |          |  -      |![image](https://github.com/user-attachments/assets/3413d161-bf1b-4c3a-8495-a0e5f9a78239)|
+|             U73                   |           |          |  -      |![image](https://github.com/user-attachments/assets/445d2d44-3ab0-4ace-8f95-a8dd173b7b38)|
+|             U74                   |           |          |  -      |![image](https://github.com/user-attachments/assets/6e3cccc0-c186-4cb7-ba68-9bd7e894f2d2)|
+|             U75                   |           |          |  -      |![image](https://github.com/user-attachments/assets/95e9b01c-e0be-4095-9a48-89436498e835)|
+|             U76                   |           |          |  -      |![image](https://github.com/user-attachments/assets/b690deaa-0da7-42d9-b1c7-9494ca75ea0e)|
+|             U77                   |           |          |  -      |![image](https://github.com/user-attachments/assets/f57f3fda-fad1-4b32-ab13-aab2415db42e)|
+|             U78                   |           |          |  -      |![image](https://github.com/user-attachments/assets/38f35374-39a3-44c5-b62f-60f8ef042145)|
+|             U79                   |           |          |  -      |![image](https://github.com/user-attachments/assets/d6dd1d59-0613-4a72-9e8e-7aa4885fca34)|
+|             U80                   |           |          |  -      |![image](https://github.com/user-attachments/assets/43196910-4ff1-4222-842e-0d0cc8658c4d)|
+|             U81                   |           |          |  -      |![image](https://github.com/user-attachments/assets/fdad8af4-bf28-4ecb-b908-c73439e5d760)|
+|             U82                   |           |          |  -      |![image](https://github.com/user-attachments/assets/5530afb6-0948-442f-962f-e11f6d570dad)|
+|             U83                   |           |          |  -      |![image](https://github.com/user-attachments/assets/51c01760-e1d9-46f6-839f-efbee747166e)|
+|             U84                   |           |          |  -      |![image](https://github.com/user-attachments/assets/eeb9efed-ec6d-43df-ac54-9c93811e9574)|
+|             U85                   |           |          |  -      |![image](https://github.com/user-attachments/assets/28196299-4028-4c71-8813-075a92cdf159)|
 
 
 |               Name               |    | Character | UC |                     In game                    |
