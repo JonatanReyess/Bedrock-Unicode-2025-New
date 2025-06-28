@@ -349,7 +349,7 @@
 
 |               Name               |    | Character | UC |                     In game                    |
 |:--------------------------------:|:-:|:---------:|:-------:|:----------------------------------------------:|
-|             Z1                   |           |          |  -      |![image](https://github.com/user-attachments/assets/376ee09c-a343-403f-967d-78c85daeb931)|
+|             Z1                   |           |          |  -      |![image](https://github.com/user-attachments/assets/e75a2ebe-ae53-4645-8c9e-562aa27dce30)|
 |             Z2                   |           |          |  -      |![image](https://github.com/user-attachments/assets/bcaa1267-406c-438e-a8a1-ebcfd30d906e)|
 |             Z3                   |           |          |  -      |![image](https://github.com/user-attachments/assets/031c813e-e598-47d7-b9b8-2e4adf5ce3b6)|
 |             Z4                   |           |          |  -      |![image](https://github.com/user-attachments/assets/a8ed3370-7632-4c4c-8aad-f76373eff8b8)|
