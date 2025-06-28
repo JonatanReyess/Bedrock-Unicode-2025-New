@@ -373,4 +373,17 @@
 |             Z22                   |           |         |  -      |![image](https://github.com/user-attachments/assets/06521f20-67f4-4c95-9044-650417930dfa)|
 
 
+|               Name               |    | Character | UC |                     In game                    |
+|:--------------------------------:|:-:|:---------:|:-------:|:----------------------------------------------:|
+|             A1                   |           |          |  -      |![image](https://github.com/user-attachments/assets/73faf4ff-feec-4d79-b5fa-805a4c91b7c9)|
+|             A2                   |           |          |  -      |![image](https://github.com/user-attachments/assets/6de833ad-c6d2-492a-b90a-096b952470ca)|
+|             A3                   |           |          |  -      |![image](https://github.com/user-attachments/assets/747d6e59-697f-4cd0-8777-abcc7f3cc0df)|
+|             A4                   |           |          |  -      |![image](https://github.com/user-attachments/assets/17c8d7de-4475-44d2-b789-d45f47bb2fb3)|
+|             A5                   |           |          |  -      |![image](https://github.com/user-attachments/assets/ce1c5428-9134-429f-8740-ab15c1e57e05)|
+|             A6                   |           |          |  -      |![image](https://github.com/user-attachments/assets/52d9ea7f-9c0e-48d4-a0f7-d99bb249cfac)|
+|             A7                   |           |          |  -      |![image](https://github.com/user-attachments/assets/db4e0d7b-37af-43df-8bde-4fc82fc38d0e)|
+|             A8                   |           |          |  -      |![image](https://github.com/user-attachments/assets/2bd6bbe7-8497-4594-9fb8-a144afc2d530)|
+|             A9                   |           |          |  -      |![image](https://github.com/user-attachments/assets/1081b8d8-008c-4ecb-8442-5c692227dadc)|
+
+
 
